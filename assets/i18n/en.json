@@ -1,0 +1,36 @@
+{
+  "TOPBAR": {
+    "HOME": "Home",
+    "GALLERIA": "Galleria",
+    "ABOUT": "About",
+    "CONTACTS": "Contacts"
+  },
+  "ADDRESS": "address",
+  "HOME": {
+    "LEADERS": "Certifed Balint group leaders",
+    "MEMBERS": "Balint members",
+    "TITLE": "Balint history",
+    "PARAGRAPH_1": "Balint group comprises of representatives of helping professions (doctors, psychologists, social workers etc.) who meet regularly to present cases followed by group discussion. The aim of the method is a group process of exploration and transformation of uncertainty, lack of trust and difficulty in the doctor-patient relationship into a greater understanding and meaning that strengthens the therapeutic alliance between professional and patient.",
+    "PARAGRAPH_2": "A Balint session begins with a member's presenting a case to the group for discussion. During the facilitated discussion, the group members uncover different and new perceptions about the patient's and specialist’s feelings and share their experiences.",
+    "PARAGRAPH_3": "Two leaders usually facilitate the group process. The success of a group depends on its members being honest, respectful and supportive of divergent opinions. Balint group members uphold the confidentiality of the information shared by the group members. A Balint group may meet for months or years, and group cohesion and trust develop over time. ",
+    "PARAGRAPH_4": "Balint groups are named after the psychoanalyst Michael Balint (1896-1970).  His main work was as a psychoanalyst at the Tavistock Clinic, in London. He started groups with his third wife, Enid – a Social Worker and Marriage Guidance Counselor, for GPs in the 1950s to study the doctor-patient relationship. This work was first described in the book The Doctor, his Patient and the Illness (1957)."
+  },
+  "GALLERIA": {
+    "CONFERENCE": "Conference"
+  },
+  "ABOUT": {
+    "TITLE": "Armenian Balint Union",
+    "PARAGRAPH_1": "Although Armenian Balint Union was established in 2017, the Balint movement in Armenia began in 2014, when a group of psychologists from Yerevan State University Center of Applied Psychology began training for the Balint Group Leader Certification. The training consisted of four modules developed and implemented by the senior lecturer of M. Sechenov First Moscow State Medical University, certified counsellor, certified Balint Group leader, Member of the British Balint Union, President of the Balint Union of Moscow Angela Avagimyan, who later became one of the founders and president of Armenian Balint Union. The training was held for two years after which 8 participants were certified as the All-Russian Professional Psychotherapeutic League Balint Group Leaders. ",
+    "PARAGRAPH_2": "Three international conferences on Balint Movement, two in Yerevan (in 2015 and 2016), one in Moscow (in 2017), were organized by Angela Avagimyan and YSU Center of Applied Psychology, during which the leading specialists from German and British Balint Unions performed master-classes and shared their experiences. Thus, the two-year trainings as well as the three international conferences stimulated the development of the Balint Movement in Armenia. In parallel with this the active agitation was held within helping professionals who finally formed the first Armenian Balint Groups.",
+    "PARAGRAPH_3": "So, starting from 2016, the groups have been managed by Armenian specialists (D. Gevorgyan, I.Khanamiryan, I. Ghazaryan, E. Asribabayan, A.Sargsyan, M. Sargsyan), and gradually more and more people started to involve in the work of those groups -  psychologists, medical doctors, nurses, social workers, teachers. The Balint Groups were spreading in professional circles and finally in 2017 a decision was made to establish the Armenian Balint Union, presiding over Angela Avagimyan, who played an indispensable role in the Balint movement in Armenia.",
+    "PARAGRAPH_4": "The Union is still making its first steps to psychologically support the helping professionals and is actively engaged in the involvement of new members, structural development, establishment of international relations and dissemination of  Balint culture in Armenia."
+  },
+  "CONTACTS": {
+    "TITLE": "Contacts",
+    "ADDRESS_FIRST": "RA, Yerevan, 52/A Abovyan str.",
+    "ADDRESS_SECOND": "YSU, 8th building, room 012",
+    "PHONE": "Phone:",
+    "MOBILE": "Mobile:",
+    "EMAIL": "E-mail:"
+  }
+}
