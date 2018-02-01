@@ -1,14 +1,19 @@
 {
   "TOPBAR": {
     "HOME": "Home",
-    "GALLERIA": "Photo Gallery",
+    "GALLERY": "Photo Gallery",
     "ABOUT": "About",
-    "CONTACTS": "Contacts"
+    "CONTACTS": "Contacts",
+    "EVENTS": "Events",
+    "NEWS": "News",
+    "LIBRARY": "Library",
+    "CONFERENCE": "Conference"
   },
   "ADDRESS": "address",
   "HOME": {
     "LEADERS": "Certified Balint group leaders",
     "MEMBERS": "Armenian Balint society members",
+    "SPECIAL_MEMBERS": "Armenian Balint society special members",
     "TITLE": "Balint history",
     "PARAGRAPH_1": "Balint group comprises of representatives of helping professions (doctors, psychologists, social workers etc.) who meet regularly to present cases followed by group discussion. The aim of the method is a group process of exploration and transformation of uncertainty, lack of trust and difficulty in the doctor-patient relationship into a greater understanding and meaning that strengthens the therapeutic alliance between professional and patient.",
     "PARAGRAPH_2": "A Balint session begins with a member's presenting a case to the group for discussion. During the facilitated discussion, the group members uncover different and new perceptions about the patient's and specialist’s feelings and share their experiences.",
@@ -31,6 +36,20 @@
     "ADDRESS_SECOND": "YSU, 8th building, room 012",
     "PHONE": "Phone:",
     "MOBILE": "Mobile:",
-    "EMAIL": "E-mail:"
+    "EMAIL": "E-mail:",
+    "CONTACT_FORM": {
+      "TITLE": "Contact Us",
+      "NAME": "First name",
+      "SURNAME": "Last name",
+      "MOBILE": "Phone",
+      "EMAIL": "Email Address",
+      "PROFESSION": "Profession",
+      "MESSAGE": "Message",
+      "SUBMIT": "Submit"
+    }
+  },
+  "COMMON": {
+    "BACK": "Go back",
+    "DETAILS": "Details"
   }
 }
