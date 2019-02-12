@@ -59,8 +59,9 @@
     "VICE_PRESIDENT": "Vice President"
   },
   "EVENTS":{
-    "MOSCOW_TITLE":"Armenian Events List",
-    "INTERNATIONAL_TITLE":"International Events List",
+    "NO_EVENT": "No event in near future",
+    "MOSCOW_TITLE": "Armenian Events List",
+    "INTERNATIONAL_TITLE": "International Events List",
     "MORE_DETAILS": "Find out more",
     "EVENT_INFO": {
       "COMMITTEE": "Leaders",
