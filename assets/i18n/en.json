@@ -131,7 +131,9 @@
     "NAME":"Name",
     "LASTNAME":"Last name",
     "CITY":"Location",
-    "HONORARY_MEMBERS":"Armenian Balint Society special members"
+    "HONORARY_MEMBERS":"Armenian Balint Society special members",
+    "MORE": "more...",
+    "CV": "Autobiography"
   },
   "TRAININGS":{
     "MODULE":"module",
