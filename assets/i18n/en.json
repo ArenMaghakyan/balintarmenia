@@ -56,6 +56,7 @@
     "SECRETARY": "Certified Balint group leaders",
     "PHONE": "Phone",
     "EMAIL": "E-mail",
+    "SKYPE": "Skype",
     "VICE_PRESIDENT": "Vice President"
   },
   "EVENTS":{
@@ -133,6 +134,8 @@
     "CITY":"Location",
     "HONORARY_MEMBERS":"Armenian Balint Society special members",
     "MORE": "more...",
+    "CLOSE": "Close",
+    "OPEN_CONTACTS": "Open contact",
     "CV": "Autobiography"
   },
   "TRAININGS":{
