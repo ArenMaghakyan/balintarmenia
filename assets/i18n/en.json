@@ -20,11 +20,12 @@
   },
   "CAROUSEL":{
     "TITLE1":"International Balint Conference, July 2017, Moscow, Sechenov University",
-    "TITLE2":"Balint section on the sidelines of the PPL International Congress, October 2017, PPL President V. Makarov, German Balint Society President – G. Bergmann, Moscow Balint Society President – A. Avagimyan ",
+    "TITLE2":"The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
     "TITLE3":"International Conference in Armenia, 2015, excursion to Noravank Monastery",
     "TITLE4":"International Conference in Armenia, 2015, gala dinner, cake 'Mount Ararat'",
     "TITLE5":"Fish-tank style Balint group led by Doctor H. Otten, Tsakhkadzor, International Conference in Armenia, 2016",
-    "TITLE6":"International Conference in Armenia, 2016, Yerevan State University’s Psychology Department"
+    "TITLE6":"International Conference in Armenia, 2016, Yerevan State University’s Psychology Department",
+    "TITLE8":"The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27, "
   },
   "CERTIFICATES":{
     "TITLE":"Guidelines For Accreditation of Balint Leaders",
@@ -80,48 +81,16 @@
     }
   },
   "GALLERY_LINKS": {
-    "0": "Congress in Ufa, The Second Congress of Helping Professionals, 2017",
-    "1": "International Balint Congress in Metz, France, 2015",
-    "2": "International Balint Congress in Oxford, September 6-10, 2017",
-    "3": "International Balint Leadership Conference in Warsaw, September, 2016",
-    "4": "Scientific Student Circle, 2017",
-    "6": "Seminar by Dr. Bergmann in I. M. Sechenov First Moscow State Medical University, Moscow, October 2017",
-    "7": "BG leaders training seminar, Novosibirsk, 2017",
-    "8": "International Conference, Shymkent, Kazakhstan, October 2017, Balint Group presentation",
-    "9": "Balint groups with nurses, 2015-2016, No 3 Gilyarovsky Psychiatric Hospital",
-    "10":"BG presentation at International Nursing Forum, May 2017, Moscow, I. M. Sechenov First Moscow State Medical University",
-    "12":"Poster presentation at the International Balint Congress, September, 2017",
-    "14":"Annual Balint Conference, London, February 2015,2016",
-    "15":"Conference in Orel, May 2017",
-    "17":"Training seminar in Novosibirsk, December 2017",
-    "20":"BG supervisors seminar in the framework of the International Balint Conference, Moscow, July 2017, conducted by Dr. F. Ludwig-Eckelmann and Dr. Kurt Fritsche (Germany)",
-    "21":"BG master class in the framework of the International Cardiology Congress, Nizhny Novgorod, March 25, 2018",
-    "22":"BG leaders training seminar, March 25, 2018, Nizhny Novgorod",
     "23": "International Conference in Armenia, 2016",
     "24": "International Conference in Armenia, 2015",
-    "25":"Balint groups at No1 N.A. Alekseev Psychiatric Clinical Hospital",
-    "26":"Helping Professionals Forum “Professional Communication: Experience and Innovations”, BG master class, BG leader A.A. Avagimyan, Novosibirsk",
-    "27":"Our Certificates",
-    "28":"International Balint Federation board meeting headed by IBF President Doctor Nease, Reims, France, May 26, 2018",
-    "29":"BG leaders workshop, Reims, France, May 25-27, 2018",
-    "30":"Balint groups with chief nurses at the University Children's Clinical Hospital, 2017-2018",
-    "31":"3rd year completion of the project Balint Groups in Psychiatry (BGs with psychiatrists, medical psychologists, department heads, nurses and head nurses at No 1 Alekseev Psychiatric Clinical Hospital, MHD)",
-    "32":"Seminar for BG leaders, Aachen, Germany, June 8-10, 2018",
-    "33":"PPL International Psychological Festival, Crimea, Sevastopol, June 29 – July 5, 2018 Balint group work master class, leader: A.A. Avagimyan",
-    "34":"International Conference for Balint Group Leaders, Helsinki, Finland. October 28-30, 2018",
-    "35":"Board meeting of the International Balint Federation at the International Conference for the leaders of BG, October 29, 2018",
-    "36":"International Congress of Assisting Professions in Novosibirsk, October 1, 2018. Welcome speech to the congress of the President of OppPL, prof. Makarova V.V.",
-    "37":"Speech at the International Congress of helping professions prof. Ts. P. Korolenko",
-    "38":"Conference in honor of the 85th anniversary of prof. Korolenko TS.P. In the framework of the International Congress of Aid Professions, Novosibirsk, October 3, 2018",
-    "39":"Presentation at the plenary session of the Third Congress of Aid Professions, October 2, 2018, Novosibirsk, Avagimyan A.A.",
-    "40":"The Balint Section of the Third International Congress of Aid Professions, October 4, 2018, Novosibirsk. Leader - Avagimyan A.A.",
-    "41":"X Congress of Onco-Psychologists, November 8, 2018, Moscow. BG master class, leader - A.Avagimyan ",
-    "42":"Dr. Kost (Germany) in the PCB №1 them. ON. Alekseeva: a meeting with Nikita Vladimirovich Chernov, the head of rehabilitation (visiting a day hospital, the Museum), a lecture for nurses and residents",
-    "43":"Training of BG managers, moderated - Dr. Kost, Germany (Moscow, 15-16.11.2018)",
-    "44":"The Balint Section at the OPPL Congress, Moscow, 2018. The leaders are Dr. Kost and Avagimyan A.A.",
-    "45":"Round table 'Do you need help professionals help the professions?' in the framework of the Balint section at the OPPL Congress, 2018",
-    "46":"Reception in honor of the anniversary of prof. V. Makarova, October 6, 2018",
-    "47":"Conference «Interdisciplinary approaches to the study of the mental health of man and society», October 29, 2018."
+    "25":"The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
+    "26":"The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27."
+  },
+  "GALLERY_TITLES": {
+    "23": "International Conference in Armenia, 2016",
+    "24": "International Conference in Armenia, 2015",
+    "25":"The ceremony of the first stage of the Balint Group Leader educational program certification was held in November, 2019. Specialists who have completed this phase began their second phase of training in December under the guidance of program manager A. Avagimyan.",
+    "26":"2019 May 24-27, The annual conference on Balint work took place in Aachen, Germany. The conference was attended by delegations from Russia, Great Britain, Holland, France and others. The conference was attended by Chairman of the Armenian Balint Union I. Khanamiryan, Vice President I. Ghazaryan, Board Member, Chairman of the Moscow Balint Union A.K. Avagimyan, as well as members of the Association H. Hakobyan and Y.Hakobyan. This year's conference was dedicated to Armenia. The members of the Armenian delegation presented the peculiarities of the Balint movement in Armenia. The representatives of different countries also had the opportunity to get acquainted with the Armenian culture,  art and  number of dishes."
   },
   "WHO_WAS_BALINT":{
     "TITLE": "Balint history"
@@ -326,6 +295,6 @@
     "CONTACT": {
       "TITLE": "CONTACT"
     },
-    "COPYRIGHTS": "Copyright 2019 International Balint Federation | All Rights Reserved."
+    "COPYRIGHTS": "Copyright 2020 International Balint Federation | All Rights Reserved."
   }
 }
