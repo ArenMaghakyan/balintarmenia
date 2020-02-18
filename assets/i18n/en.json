@@ -7,7 +7,7 @@
     "TRAININGS": "Trainings",
     "SUPERVISOR": "Supervisors",
     "BG_LEADS": "BG Leaders",
-    "TRAINING": "Training",
+    "TRAINING": "Trainers",
     "MEMBERS": "Members",
     "LITERATURE": "Literature",
     "CERTIFICATES": "Certification",
@@ -96,7 +96,7 @@
     "TITLE": "Balint history"
   },
   "MEMBERS":{
-    "CAPTION":"Moscow Balint Society",
+    "CAPTION":"Armenian Balint Society",
     "TITLE":"Armenian Balint society members",
     "NAME":"Name",
     "LASTNAME":"Last name",
@@ -263,6 +263,7 @@
     "PHONE": "Phone:",
     "MOBILE": "Mobile:",
     "EMAIL": "E-mail:",
+    "FACEBOOK": "Facebook",
     "CONTACT_FORM": {
       "TITLE": "Contact Us",
       "NAME": "First name",

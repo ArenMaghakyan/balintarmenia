@@ -6,8 +6,8 @@
     "INTERNATIONAL": "Միջազգային",
     "TRAININGS": "Վերապատրաստում",
     "SUPERVISOR": "Սուպերվիզոր",
-    "BG_LEADS": "ԲԽ ղեկավարներ",
-    "TRAINING": "Վերապատրաստում",
+    "BG_LEADS": "ԲԽ Խմբավարներ",
+    "TRAINING": "Դասավանդողներ",
     "MEMBERS": "Անդամներ",
     "LITERATURE": "Գրականություն",
     "CERTIFICATES": "Ատեստացիա",
@@ -58,6 +58,7 @@
     "PHONE": "Հեռ.",
     "SKYPE": "Skype",
     "EMAIL": "Էլ․ փոստ",
+    "FACEBOOK": "ֆեյսբուք",
     "VICE_PRESIDENT": "Փոխնախագահ"
   },
   "EVENTS": {
@@ -263,6 +264,7 @@
     "PHONE": "Հեռ.",
     "MOBILE": "Բջջ.",
     "EMAIL": "Էլ փոստ:",
+    "FACEBOOK": "ֆեյսբուք",
     "CONTACT_FORM": {
       "TITLE": "ԿՈՆՏԱԿՏ",
       "NAME": "Անուն",
