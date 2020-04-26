@@ -1,5 +1,5 @@
 {
-  "NAVBAR":{
+  "NAVBAR": {
     "HOME": "Home",
     "EVENTS": "Events",
     "MOSCOW": "In Armenia",
@@ -18,40 +18,40 @@
     "PARTNERS": "Partners",
     "REESTER": "Register of BG Leaders"
   },
-  "CAROUSEL":{
-    "TITLE1":"International Balint Conference, July 2017, Moscow, Sechenov University",
-    "TITLE2":"The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
-    "TITLE3":"International Conference in Armenia, 2015, excursion to Noravank Monastery",
-    "TITLE4":"International Conference in Armenia, 2015, gala dinner, cake 'Mount Ararat'",
-    "TITLE5":"Fish-tank style Balint group led by Doctor H. Otten, Tsakhkadzor, International Conference in Armenia, 2016",
-    "TITLE6":"International Conference in Armenia, 2016, Yerevan State University’s Psychology Department",
-    "TITLE8":"The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27, "
+  "CAROUSEL": {
+    "TITLE1": "International Balint Conference, July 2017, Moscow, Sechenov University",
+    "TITLE2": "The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
+    "TITLE3": "International Conference in Armenia, 2015, excursion to Noravank Monastery",
+    "TITLE4": "International Conference in Armenia, 2015, gala dinner, cake 'Mount Ararat'",
+    "TITLE5": "Fish-tank style Balint group led by Doctor H. Otten, Tsakhkadzor, International Conference in Armenia, 2016",
+    "TITLE6": "International Conference in Armenia, 2016, Yerevan State University’s Psychology Department",
+    "TITLE8": "The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27, "
   },
-  "CERTIFICATES":{
-    "TITLE":"Guidelines For Accreditation of Balint Leaders",
-    "TEXT1":"Proposed by the Leadership Task Force Approved by Council in Salzburg, Austria – 14 May, 2016",
-    "TEXT2":"These guidelines are intended as parameters for national societies to consider when drawing up their criteria for accreditation. National societies will want to define periods of sufficient lengths of time for being in a Balint Group, for instance. Societies need to be aware that it is equally important for psychiatrists and psychotherapists to acquire experience of leading Balint Groups before becoming accredited, as it is for GPs. And that the pathway for psychiatrists and psychotherapists will be different to the pathway for GPs.",
-    "LIST":{
-      "1":"Leaders should have appropriate basic professional training.",
-      "2":"Leaders must have prior experience of being in a Balint Group for a sufficient* length of time.",
-      "3":"Leaders should have co-led with an accredited leader as part of their training who is invited to provide a report/reference to the accrediting society.",
-      "4":"Leaders should have a supervisor who has sufficient** knowledge of their work to be able to provide a report/reference to the accrediting society.",
-      "5":"Leaders should be evaluated prior to accreditation according to the following criteria:",
-      "6":"Leaders should receive adequate and continuing supervision.",
-      "SUBLIST":{
-        "1":"that they encourage the development of a safe and free environment within the group and are aware of the importance of protecting the boundaries of the group",
-        "2":"that they focus the work on an exploration of the doctor-patient relationship rather than seeking solutions or teaching",
-        "3":"that they are open to learning about their personal style in leading a group and aware that their attitudes and responses will influence the dynamics of the group",
-        "4":"that they have an awareness of group processes and unconscious processes that are likely to affect the primary task of the group",
-        "5":"that they recognize that becoming an accredited Balint leader is a not an end but a beginning"
+  "CERTIFICATES": {
+    "TITLE": "Guidelines For Accreditation of Balint Leaders",
+    "TEXT1": "Proposed by the Leadership Task Force Approved by Council in Salzburg, Austria – 14 May, 2016",
+    "TEXT2": "These guidelines are intended as parameters for national societies to consider when drawing up their criteria for accreditation. National societies will want to define periods of sufficient lengths of time for being in a Balint Group, for instance. Societies need to be aware that it is equally important for psychiatrists and psychotherapists to acquire experience of leading Balint Groups before becoming accredited, as it is for GPs. And that the pathway for psychiatrists and psychotherapists will be different to the pathway for GPs.",
+    "LIST": {
+      "1": "Leaders should have appropriate basic professional training.",
+      "2": "Leaders must have prior experience of being in a Balint Group for a sufficient* length of time.",
+      "3": "Leaders should have co-led with an accredited leader as part of their training who is invited to provide a report/reference to the accrediting society.",
+      "4": "Leaders should have a supervisor who has sufficient** knowledge of their work to be able to provide a report/reference to the accrediting society.",
+      "5": "Leaders should be evaluated prior to accreditation according to the following criteria:",
+      "6": "Leaders should receive adequate and continuing supervision.",
+      "SUBLIST": {
+        "1": "that they encourage the development of a safe and free environment within the group and are aware of the importance of protecting the boundaries of the group",
+        "2": "that they focus the work on an exploration of the doctor-patient relationship rather than seeking solutions or teaching",
+        "3": "that they are open to learning about their personal style in leading a group and aware that their attitudes and responses will influence the dynamics of the group",
+        "4": "that they have an awareness of group processes and unconscious processes that are likely to affect the primary task of the group",
+        "5": "that they recognize that becoming an accredited Balint leader is a not an end but a beginning"
       }
     },
-    "*":"* to be determined by accrediting societies",
-    "**":"** may not be possible at present in some societies",
-    "LEAD_TRAINING":" Balint Group Leaders Training",
-    "SUPERVISOR_TRAINING":" Balint Group Supervisors Training"
+    "*": "* to be determined by accrediting societies",
+    "**": "** may not be possible at present in some societies",
+    "LEAD_TRAINING": " Balint Group Leaders Training",
+    "SUPERVISOR_TRAINING": " Balint Group Supervisors Training"
   },
-  "CONTACT":{
+  "CONTACT": {
     "TITLE": "Contact",
     "PRESIDENT": "President",
     "SECRETARY": "Certified Balint group leaders",
@@ -60,7 +60,7 @@
     "SKYPE": "Skype",
     "VICE_PRESIDENT": "Vice President"
   },
-  "EVENTS":{
+  "EVENTS": {
     "NO_EVENT": "No event in near future",
     "MOSCOW_TITLE": "Armenian Events List",
     "INTERNATIONAL_TITLE": "International Events List",
@@ -83,123 +83,100 @@
   "GALLERY_LINKS": {
     "23": "International Conference in Armenia, 2016",
     "24": "International Conference in Armenia, 2015",
-    "25":"The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
-    "26":"The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27."
+    "25": "The ceremony of the first stage of the Balint Group Leader educational program certification, 2019 November",
+    "26": "The annual conference on Balint work took place in Aachen, Germany, 2019 May 24-27."
   },
   "GALLERY_TITLES": {
     "23": "International Conference in Armenia, 2016",
     "24": "International Conference in Armenia, 2015",
-    "25":"The ceremony of the first stage of the Balint Group Leader educational program certification was held in November, 2019. Specialists who have completed this phase began their second phase of training in December under the guidance of program manager A. Avagimyan.",
-    "26":"2019 May 24-27, The annual conference on Balint work took place in Aachen, Germany. The conference was attended by delegations from Russia, Great Britain, Holland, France and others. The conference was attended by Chairman of the Armenian Balint Union I. Khanamiryan, Vice President I. Ghazaryan, Board Member, Chairman of the Moscow Balint Union A.K. Avagimyan, as well as members of the Association H. Hakobyan and Y.Hakobyan. This year's conference was dedicated to Armenia. The members of the Armenian delegation presented the peculiarities of the Balint movement in Armenia. The representatives of different countries also had the opportunity to get acquainted with the Armenian culture,  art and  number of dishes."
+    "25": "The ceremony of the first stage of the Balint Group Leader educational program certification was held in November, 2019. Specialists who have completed this phase began their second phase of training in December under the guidance of program manager A. Avagimyan.",
+    "26": "2019 May 24-27, The annual conference on Balint work took place in Aachen, Germany. The conference was attended by delegations from Russia, Great Britain, Holland, France and others. The conference was attended by Chairman of the Armenian Balint Union I. Khanamiryan, Vice President I. Ghazaryan, Board Member, Chairman of the Moscow Balint Union A.K. Avagimyan, as well as members of the Association H. Hakobyan and Y.Hakobyan. This year's conference was dedicated to Armenia. The members of the Armenian delegation presented the peculiarities of the Balint movement in Armenia. The representatives of different countries also had the opportunity to get acquainted with the Armenian culture,  art and  number of dishes."
   },
-  "WHO_WAS_BALINT":{
+  "WHO_WAS_BALINT": {
     "TITLE": "Balint history"
   },
-  "MEMBERS":{
-    "CAPTION":"Armenian Balint Society",
-    "TITLE":"Armenian Balint society members",
-    "NAME":"Name",
-    "LASTNAME":"Last name",
-    "CITY":"Location",
-    "HONORARY_MEMBERS":"Armenian Balint Society special members",
+  "MEMBERS": {
+    "CAPTION": "Armenian Balint Society",
+    "TITLE": "Armenian Balint society members",
+    "NAME": "Name",
+    "LASTNAME": "Last name",
+    "CITY": "Location",
+    "HONORARY_MEMBERS": "Armenian Balint Society special members",
     "MORE": "more...",
     "CLOSE": "Close",
     "OPEN_CONTACTS": "Open contact",
     "CV": "Autobiography"
   },
-  "TRAININGS":{
-    "MODULE":"module",
-    "LEADS_DESC" :{
-      "TITLE" : "International Balint Group Leader Training Program",
-      "MODULE1" : "Balint group training for self-awareness and professional development",
-      "MODULE1_DESC" : "<strong>- 72 academic hours - 4 seminars, 18 academic hours each - 6 months</strong> <p>(BG attendance as a group participant)",
-      "MODULE2" : "BG leaders training. BG theory and practice",
-      "MODULE2_DESC" : "<strong>- 96 academic hours - 6 seminars, 16 academic hours each – 1 year</strong><p> (Balint work as a leader and co-leader under the guidance of a supervisor, methodology workshop",
-      "MODULE3": "Master class by foreign (German, British etc.) BG leaders",
-      "MODULE3_DESC" : "<strong>- 30 academic hours - 2 seminars, 14-16 academic hours each</strong><p>Participation in Germany- and Great Britain-hosted seminars possible by prior arrangement<p>Participation in master classes held on the sidelines of conferences possible",
-      "MODULE4":"Independent work as a BG leader and co-leader",
-      "MODULE4_DESC":"<strong>- 72 academic hours - at least 9 months</strong><p><strong>Work report:</strong>Group registration (a list of participants and their e-mails sent to the trainer)<p><strong>BG leader’s work supervision</strong>-<strong>3 supervisions</strong>during Module 4<p>Supervision can be conducted via Skype",
-      "TEXT1":"<strong><u>Combining of seminars possible for regional specialists</u></strong>(if specifically requested)",
-      "TEXT2":"<strong><u>On completion of training</u></strong><p>the specialist is awarded a PPL Balint Group Leader Certificate as well as Moscow Balint Society Certificate. The latter allows the specialist to participate in international events, which require accreditation with the national Balint society.",
-      "TEXT3":"<strong><u>To qualify for a certificate, the specialist must undergo a total of</u></strong><p>- 100 hours of psychotherapy (personal therapy)<p>- 30 hours of psychotherapy practice supervision with certified specialists.",
-      "TEXT4":"<strong><u>The BG Leader Certificate allows the specialist to conduct the 1st module of the BG Leader Training Program (4 seminars – 72 hours).",
-      "TEXT5":"<strong><u>Further training</u></strong><p>(14 seminars with foreign BG leaders) allows specialists to teach the full course of BG Leader Training Program as well as provides the status of the International Practice Balint Group Leader.</strong>"
+  "TRAININGS": {
+    "MODULE": "module",
+    "LEADS_DESC": {
+      "PHASE1": "<h3><strong>Phase 1: Training of Balint Group Leader</strong></h3>",
+      "MODULE1_DESC": "<strong>First Module:</strong> Fundamentals of Balint group work (70 academic hours during 4 to 6 months). It is required to participate in ordinary Balint groups as a Balint group member.",
+      "MODULE2_DESC": "<strong>Second Module:</strong> Training of Balint group leaders (96 academic hours during 8 to 12 months). It is required to participate in 6 seminars, 16 academic hours each",
+      "MODULE3_DESC": "<strong>Psychotherapy</strong> (individual, group): It is required to have 50 hours of psychotherapeutic visits to a certified psychotherapist.",
+      "TEXT0": "Consists of three main steps/parts two modules and psychotherapy.",
+      "TEXT1": "Total: 216 academic hours",
+      "TEXT2": "An All-Russian Professional Psychotherapeutic League (PPL Russia) and Moscow Balint Society certificate is given which allows to lead Balint groups and conduct the first module of training program."
     },
     "GROUPS_DESC": {
-      "TITLE":"About Balint Groups",
-      "CAPTION":"The Balint group is a classic method of group training research work, used to prevent the professional burnout of specialists in helping professions.",
-      "PARAGRAPH1":"<strong>The central object of the research in the classical Balint group is the 'doctor-patient', 'psychologist-client', etc. relationship.</strong><p>The analysis of these relationships provides an opportunity to more fully understand the client in all the variety of his connections and interactions with the real world, to gain an alternative perspective of the relationship with the patient, thus improving the skills of professional communication and helping to overcome crises in personal and professional development.",
-      "PARAGRAPH2":"<p>The first training seminars for general practitioners were organized in the 50s in London’s famous Tavistock Clinic by Michael Balint, a psychoanalyst of Hungarian origin. In his famous classic work, The Doctor, his Patient and the Illness, Balint outlined the basics of such seminars, with the method named after him.",
-      "PARAGRAPH3":"<strong class='caption'>The Balint group work is aimed to:</strong><p>increase competence in professional interpersonal communication;<p>boost awareness of personal blind spots blocking professional relations with the patient;<p>expand ideas about the treatment process (as opposed to doctors’ “apostolic” attitude);<p>enable psychological prophylaxis of the group participants, based on the possibility of working out “unsuccessful” cases in the environment of collegial support",
-      "PARAGRAPH4":"<strong>Standard rules of Balint group work: confidentiality, sincerity, personal responsibility, respect for the opinion of others, the rule of 'stop,' non-use of psychological and medical terms, no criticism or advising.",
-      "PARAGRAPH5":"<strong class='caption'>The objectives of Balint group work:</strong><br><p>- to encourage physicians to value their interpersonal skills and learn to understand their limits,<p>- to improve the doctors’ perception and understanding of patients’ communication,<p>- to boost the doctors’ awareness of their 'blind spots' in communicating with patients,<p>- to enable psychological prophylaxis of burnout syndrome.",
-      "PARAGRAPH6":"<strong class='caption'>The Balint group helps answer the following questions:</strong><br><p>- Why do doctors ignore a lot in their relationships with patients?<p>- Why are they often unable to understand their feelings occurring in the course of these relationships?<p>- How are resistance, defense and transference occurring under the influence of feelings and emotions related to patients manifested in doctors?<p>and how it affects:<p>- communication with patients;<p>- the effectiveness of therapeutic contact;<p>- professional health of the doctor.",
-      "PARAGRAPH7":"<strong class='caption'>BG work results in:</strong><br><p>- improvement of the perception and understanding of communication with the patient,<p>- awareness of the therapeutic significance of interpersonal relationships and their boundaries,<p>- expansion of the repertoire of communicative stereotypes,<p>- increased awareness of 'blind spots,' psychological defenses. Transference and counter transference, prevention of 'emotional burnout,'<p>- personal growth."
+      "PHASE2": "<h3><strong>Phase two: Trainer of “Balint Group Leader” Training Program</strong></h3>",
+      "MODULE1_DESC": "<strong>Psychotherapy </strong>(individual, group): It is required to have 50 hours of psychotherapeutic visits to a certified psychotherapist.",
+      "TEXT0": "Six seminars, 16 academic hours each. In total, 96 academic hours during 8 to 12 months. ",
+      "TEXT1": "An All-Russian Professional Psychotherapeutic League (PPL Russia) and Moscow Balint Society certificate of “Training of Balint Group Leader” program manager is given."
     },
     "SUPERVISOR_DESC": {
-      "TITLE":"Overview",
-      "PARAGRAPH1":"<strong>Status description</strong><p> A PPL-certified supervising BG leader is allowed to conduct and document training hours of the Balint group participants to be considered in issuing the following types of certificates:",
-      "PARAGRAPH1_1":"Basics of Balint group work - 36-40 hours",
-      "PARAGRAPH1_2":"Balint group training for self-awareness and professional development. Basic course -72 hours",
-      "PARAGRAPH1_3":"Balint group leaders’ training. Theory and practice of Balint group work. One-year course; 6 double seminars held once in 2 months - 96 hours",
-      "PARAGRAPH1_4":"Supervision of the Balint group leaders’ training, participation in a special program for Balint work supervisors",
-      "PARAGRAPH2":"<strong>Minimal requirements for the PPL-certified supervising BG leader candidate:</strong><p>",
-      "PARAGRAPH2_1":"8 years’ professional experience (as a psychotherapist, consulting psychologist, doctor, social worker, educator); 250 hours of personal therapy, full course of the Balint group leader training; consulting psychologists and psychotherapists  are required additional 3000 hours of psychotherapeutic practice and 250 hours of individual and group supervision",
-      "PARAGRAPH2_2":"A minimum of 3 years of professional experience as a PPL-certified Balint group leader",
-      "PARAGRAPH2_3":"At least 9 months (out of a year) of documented experience of conducting Balint groups for a minimum of once a month",
-      "PARAGRAPH2_4":"5 supervisions of a personal practice of Balint work a year",
-      "PARAGRAPH2_5":"3 supervisory seminars in mixed Russian-German groups in German Balint Society and PPL",
-      "PARAGRAPH3":"<strong>Procedure for granting the PPL-certified supervising BG leader status:</strong><p>",
-      "PARAGRAPH3_1":"The status is granted by the PPL Committee for Personal Therapy and Balint Movement",
-      "PARAGRAPH3_2":"The contender should submit an application for the PPL-certified supervising BG leader containing a documented list of professional targets met",
-      "PARAGRAPH3_3":"In case of the Committee’s positive decision to grant the status, the contender receives the status of a PPL-certified supervising BG leader of the approved model. The specialist’s personal data is further included in the PPL Balint Group Leaders’ Register and gets published on the PPL official website; the specialist covers the fee for retaining the data on the register",
-      "PARAGRAPH3_4":"The status is granted for a term period of 5 years, the status can be further extended following the application of the specialist and a corresponding decision of the PPL Committee for Personal Therapy and Balint Movement"
+      "PHASE3": "<h3><strong>Phase three: Training for a Supervisor of PPL Russia Balint Group Leaders</strong></h3>",
+      "PHASE4": "<h3><strong>Phase Four: Trainer for “The Supervisor for Balint Group Leaders” Program</strong></h3>",
+      "TEXT0": "Three seminars, 16 academic hours each during 4 to 6 months.",
+      "TEXT1": "An All-Russian Professional Psychotherapeutic League (PPL Russia) and Moscow Balint Society Supervisor’s certificate is given which entitles to carry out supervisions for Balint group leaders.",
+      "TEXT2": "Three seminars, 16 academic hours each during 4 to 6 months.",
+      "TEXT3": "An All-Russian Professional Psychotherapeutic League (PPL Russia) and Moscow Balint Society Supervisor’s certificate is given which entitles to carry out supervisions for Balint group leaders as well as to train the supervisors."
     },
     "SUPERVISOR_TITLE": "Supervisors Training",
     "LEADS_TITLE": "Balint Group Leaders Training",
     "GROUPS_TITLE": "Balint Groups Training",
-    "SHOW_MORE":"Show more...",
-    "SHOW_LESS":"Show less..."
+    "SHOW_MORE": "Show more...",
+    "SHOW_LESS": "Show less..."
   },
   "LITERATURE": {
-    "GROUP1":{
-      "TITLE":"Proceedings of the International Balint Conference in Moscow, 2017",
+    "GROUP1": {
+      "TITLE": "Proceedings of the International Balint Conference in Moscow, 2017",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=1bs3c-tG_TBL3jCryqDPMqcyZInvmTyUK",
         "TITLE": "Proceedings of the Third International Conference (eng, rus)",
-        "TEXT" : "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
+        "TEXT": "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
       },
       "DOCUMENT_2": {
         "URL": "https://drive.google.com/open?id=1wJ4Fu6q4P3QtewgFeW_AkdQGLN2spOGK",
         "TITLE": "The Third International Conference Press Release (rus)",
-        "TEXT" : "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
+        "TEXT": "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
       }
     },
-    "GROUP2":{
-      "TITLE":"Proceedings of the International Balint Conference in Armenia, 2016",
+    "GROUP2": {
+      "TITLE": "Proceedings of the International Balint Conference in Armenia, 2016",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=1H308BvDlr-zpFstYDn40jW5PZiePfhdm",
         "TITLE": "Proceedings of the Second International Conference (eng, rus)",
-        "TEXT" : "Preservation and Improvement of Heath and Well-being in Specialists of Helping Professions. The Role of Balint Movement."
+        "TEXT": "Preservation and Improvement of Heath and Well-being in Specialists of Helping Professions. The Role of Balint Movement."
       }
     },
-    "GROUP3":{
+    "GROUP3": {
       "TITLE": "Proceedings of the International Balint Conference in Armenia, 2015",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=14QyTc1gtm87DZe6tKWAVkED8rLEf-DUn",
         "TITLE": "Proceedings of the First International Conference (eng, rus)",
-        "TEXT" : "Emotional Burnout and Balint Movement in Helping Professions"
+        "TEXT": "Emotional Burnout and Balint Movement in Helping Professions"
       }
     }
   },
   "HOME": {
-    "NEWS":"<p>Moscow Balint Society was admitted to the International Balint Federation!</p><p>The decision was taken at the International Balint Federation board meeting on May 26, 2018 (Reims, France).</p>",
+    "NEWS": "<p>Moscow Balint Society was admitted to the International Balint Federation!</p><p>The decision was taken at the International Balint Federation board meeting on May 26, 2018 (Reims, France).</p>",
     "GENERAL": "General",
-    "UPCOMMING_EVENTS_TITLE":"Upcoming Events",
-    "GALLERY_LINKS_TITLE":"Photo Gallery",
+    "UPCOMMING_EVENTS_TITLE": "Upcoming Events",
+    "GALLERY_LINKS_TITLE": "Photo Gallery",
     "ADDRESS": "ADDRESS",
     "ZIP": "ZIP",
-    "LINKS":{
+    "LINKS": {
       "BALINT_2016": "International Conference in Armenia 2016",
       "BALINT_2015": "International Conference in Armenia 2015"
     }
@@ -222,25 +199,25 @@
         "5": "The Moscow Balint Society goals are: professional training of BG leaders, dissemination of the Balint ideas and knowledge among the professional community at large, promotion of Balint work in accordance with the requirement of the International Balint Federation (IBF).",
         "6": "Russian translation of Dr. Heide Otten’s The Theory and Practice of Balint Group Work: Analyzing Professional Relationships"
       },
-      "TITLE1":"Training on the head of the BG and the head of the supervisor BG.",
-      "TITLE2":"A.A. Avagimyan",
-      "OUR_CERTIFICATES":"Our Certificates"
+      "TITLE1": "Training on the head of the BG and the head of the supervisor BG.",
+      "TITLE2": "A.A. Avagimyan",
+      "OUR_CERTIFICATES": "Our Certificates"
     },
     "DOCUMENTS": {
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=1HW0NSK8jvUaPyGOdQXyk6hCf4gQO19ll",
         "TITLE": "BANK ACCOUNT OPENING NOTIFICATION",
-        "TEXT" : "Attention: the Bank, in accordance with the amendment to the bank account agreement, has the right to refuse to accept the Client’s receipt of settlement (payment) documents, and cash checks in case the documents submitted by the Client for opening an account violate the requirements of the current legislation and regulatory documents of the Bank of Russia, as well as in case the Client fails to provide the Bank with information specified in the Regulation of the Bank of Russia “On the identification of credit organizations of customers and beneficiaries in order to counteract the legalization (laundering) of proceeds from crime and the financing of terrorism” of 19.08.2004 No. 262-P..."
+        "TEXT": "Attention: the Bank, in accordance with the amendment to the bank account agreement, has the right to refuse to accept the Client’s receipt of settlement (payment) documents, and cash checks in case the documents submitted by the Client for opening an account violate the requirements of the current legislation and regulatory documents of the Bank of Russia, as well as in case the Client fails to provide the Bank with information specified in the Regulation of the Bank of Russia “On the identification of credit organizations of customers and beneficiaries in order to counteract the legalization (laundering) of proceeds from crime and the financing of terrorism” of 19.08.2004 No. 262-P..."
       },
       "DOCUMENT_2": {
         "URL": "https://drive.google.com/open?id=1Oz5LiOYcYPQ6mJn_y8DgFfgLcvuZF-r4",
         "TITLE": "HERALDIC COUNCIL OF THE CITY OF MOSCOW",
-        "TEXT" : "Your application for the right to use the verbal symbol of the city of Moscow in the name of the Regional Public Organization of Physicians, Psychologists, Medical and Social Workers, “Moscow’s Balint Society” by the Heraldic Council of the City of Moscow (hereinafter referred to as the Council) was considered within the scope of the latter’s competence..."
+        "TEXT": "Your application for the right to use the verbal symbol of the city of Moscow in the name of the Regional Public Organization of Physicians, Psychologists, Medical and Social Workers, “Moscow’s Balint Society” by the Heraldic Council of the City of Moscow (hereinafter referred to as the Council) was considered within the scope of the latter’s competence..."
       },
       "DOCUMENT_3": {
         "URL": "https://drive.google.com/open?id=1sv1IHIBJplOgjJx_HYFAIpGh_VAKdNTt",
         "TITLE": "Charter of the Regional Public Organization of Physicians, Psychologists, Medical and Social Workers Balint Society in the City of Moscow",
-        "TEXT" : "1. General Provisions 1.1. Regional  public  organization  of  physicians,  psychologists,  medical  and  social  workers “•Balint Society in the city of Moscow” (hereinafter referred to as the Organization) is a nonprofit corporate organization established in the form of a public organization, a voluntary association of citizens united in the order established by the legislation, who have united on the basis of the generality of their interests for satisfaction of spiritual and other nonmaterial values, specified in this charter , which operates on the territory of the city of Moscow..."
+        "TEXT": "1. General Provisions 1.1. Regional  public  organization  of  physicians,  psychologists,  medical  and  social  workers “•Balint Society in the city of Moscow” (hereinafter referred to as the Organization) is a nonprofit corporate organization established in the form of a public organization, a voluntary association of citizens united in the order established by the legislation, who have united on the basis of the generality of their interests for satisfaction of spiritual and other nonmaterial values, specified in this charter , which operates on the territory of the city of Moscow..."
       }
     },
     "BA": {
@@ -251,10 +228,10 @@
       "PARAGRAPH_4": "The Society is still making its first steps to psychologically support the helping professionals and is actively engaged in the involvement of new members, structural development, establishment of international relations and dissemination of  Balint culture in Armenia."
     }
   },
-  "REESTER":{
+  "REESTER": {
     "TITLE": "Register of Certified Moscow Balint Society BG Leaders",
-    "TITLE1":"Supervising BG Leaders",
-    "TITLE2":"BG Leaders"
+    "TITLE1": "Supervising BG Leaders",
+    "TITLE2": "BG Leaders"
   },
   "CONTACTS": {
     "TITLE": "Contacts",
